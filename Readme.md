@@ -13,5 +13,12 @@ This project contains information for rest api and different functions in postma
 # Postman POST Request Result
 ![postman showing result for post request](Screenshots/Postrequest_result.png)
 
+# Postman PUT Request
+![postman showing PUT request](Screenshots/Putrequest.png)
+
+# Postman PUT Request Result
+![postman showing result for put request](Screenshots/Putrequest_result.png)
+
+
 
 
