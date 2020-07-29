@@ -19,6 +19,11 @@ This project contains information for rest api and different functions in postma
 # Postman PUT Request Result
 ![postman showing result for put request](Screenshots/Putrequest_result.png)
 
+# Postman DELETE Request
+![postman showing result for DELETE request](Screenshots/Deleterequest.png)
+
+# Postman DELETE Request Result
+![Postman showing result for DELETE Request](Screenshots/Deleterequest_result.png)
 
 
 
